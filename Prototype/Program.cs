@@ -12,24 +12,3 @@
 
     }
 }
-
-public interface Prototype
-{
-    Prototype Clone();
-}
-
-public class ConcretePrototypeA : Prototype
-{
-    public Prototype Clone()
-    {
-        return (Prototype)this.MemberwiseClone();
-    }
-}
-
-public class ConcretePrototypeB : Prototype
-{
-    public Prototype Clone()
-    {
-        return (Prototype)this.MemberwiseClone();
-    }
-}
