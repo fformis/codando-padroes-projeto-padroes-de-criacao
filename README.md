@@ -1,4 +1,4 @@
-# Codando Padrões de Projeto - Padrões de Criação
+# Padrões de Projeto - Padrões de Criação
 
 Este repositório contém exemplos práticos de padrões de projeto focados nos **padrões de criação** em C#. Cada projeto demonstra um padrão específico, facilitando o entendimento e aplicação no dia a dia do desenvolvimento.
 
