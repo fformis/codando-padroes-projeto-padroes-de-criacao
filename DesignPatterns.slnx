@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AbstractFactory/AbstractFactory.csproj" />
+  <Project Path="Builder/Builder.csproj" />
+  <Project Path="FactoryMethod/FactoryMethod.csproj" />
+  <Project Path="Prototype/Prototype.csproj" />
+  <Project Path="Singleton/Singleton.csproj" />
+</Solution>
