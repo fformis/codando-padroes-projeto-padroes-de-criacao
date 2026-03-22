@@ -28,7 +28,7 @@ codando-padroes-projeto-padroes-de-criacao/
 
 ### 1. Pré-requisitos
 
-- [.NET SDK 6.0 ou superior](https://dotnet.microsoft.com/download)
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
 - Editor de código (Visual Studio, VS Code, etc.)
 
 ### 2. Clonando o Repositório
